@@ -1,6 +1,6 @@
  👋 Merhaba, Ben Göktuğ Derin
 
- SEO ve Front End konularında yetkinlik sahibiyim. 
+ SEO ve Front End üzerine yetkinlik sahibiyim. 
  
 <h2> Web Sitelerim </h2>
 <a href="https://www.dogadijital.com/">Doğa Dijital</a>
